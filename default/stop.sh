@@ -1,1 +1,1 @@
-sudo docker stop mynctl
+docker stop mynctl

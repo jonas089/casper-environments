@@ -1,1 +1,1 @@
-sudo docker exec -it mynctl /bin/bash
+docker exec -it mynctl /bin/bash

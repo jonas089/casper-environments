@@ -1,1 +1,1 @@
-sudo rm -rf ./users
+rm -rf ./users

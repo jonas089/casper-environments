@@ -1,1 +1,1 @@
-sudo docker run -d --name casper-nctl-container casper-nctl:custom
+docker run -d --name casper-nctl-container casper-nctl:custom
