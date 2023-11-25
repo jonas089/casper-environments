@@ -1,6 +1,8 @@
 # nctl-env-custom
 my ultimate casper nctl environment 🪛
 
+<img src="https://github.com/jonas089/nctl-titano-env/blob/master/resources/titano.webp" width="500" height="500">
+
 ## 1. Default environment (casper-node:latest) 🚪
 
 start:
