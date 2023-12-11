@@ -1,6 +1,6 @@
 FROM ubuntu:focal
 
-ARG GITBRANCH=zk
+ARG GITBRANCH=circom-verifier
 
 # DEBIAN_FRONTEND required for tzdata dependency install
 RUN apt-get update \
